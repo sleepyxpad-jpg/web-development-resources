@@ -504,6 +504,7 @@ Initially created by [Marko](https://markodenic.com) at [Web Development Resourc
 | [Optimizilla](https://imagecompressor.com/)             |
 | [SEOTester](https://seotest.me/)                        |
 | [CORS-Tester](https://cors-error.dev/cors-tester/)      |
+| [PageGuard](https://pageguard.org)                       |
 
 [⬆ back to top](#table-of-contents)
 
